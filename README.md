@@ -37,4 +37,5 @@ More Data Analysis: You could add deeper statistical analysis such as correlatio
 Styling: More customization in PDF layout and design could enhance the look of the report.
 
 OUTPUT:
+![Image](https://github.com/user-attachments/assets/ce861db0-23bf-43da-8645-ecd25afcc702)
 
